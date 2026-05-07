@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /login
+Disallow: /signup
+
+Sitemap: https://www.safarhub.in/sitemap.xml
